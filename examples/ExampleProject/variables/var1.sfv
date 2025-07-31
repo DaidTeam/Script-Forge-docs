@@ -1,4 +1,4 @@
-string: ("evil" | "kind" | "neutral") ending = "evil" # Концовка
+string ( "evil" "kind" "neutral" ) ending = "evil" # Концовка
 int quests_left = 0
 float kindness = 0.5
 string foxys_son_name = "-"
